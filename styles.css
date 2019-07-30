@@ -1,0 +1,22 @@
+body{text-align: center; background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/9-hands-on-crystal-ball-and-cryptocurrency-allan-swart.jpg);
+  color: white}
+#message  {color:black;
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: 'Grenze', serif;
+    font-size: 25px
+
+}
+
+.first{font-family: 'Butcherman', cursive;}
+.fortune {
+  background-color: transparent;
+  border: none;
+}
+@media only screen and (max-width: 100px)
+{
